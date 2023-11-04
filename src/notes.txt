@@ -1,5 +1,5 @@
 1. Jot down the procedure for integration. 
 - Create a new project on the google cloud console.
 - Enable Javascript Maps API
-- click on credentials to generate api key(Verify your bank card to be able to activate the free trial)
+- click on credential to generate api key(Verify your bank card to be able to activate the free trial)
 - 
